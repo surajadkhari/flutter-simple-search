@@ -1,4 +1,4 @@
-# krishna_search
+# flutter_search
 
 A new Flutter project.
 
